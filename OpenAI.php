@@ -2,8 +2,8 @@
 /** 
  * phpOpenAI 
  * 
- * A quick, easy integration with OpenAI API (ChatGPT) allowing for 
- * both text completions and image generations.
+ * An OpenAI API (ChatGPT) integration class allowing for quick and easy
+ * text completions and image generations. Vanilla PHP / zero dependencies. 
  * 
  * Usage:
  * <code>
