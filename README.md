@@ -1,6 +1,6 @@
 # phpOpenAI
 
-Vanilla PHP OpenAI ChatGPT Class 🚀
+Vanilla PHP OpenAI ChatGPT Class. 🚀 Zero dependencies. 
 
 [OpenAPI.php](https://github.com/zonesql/phpopenai/blob/main/OpenAI.php)
 
