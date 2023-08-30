@@ -6,7 +6,7 @@ Vanilla PHP OpenAI ChatGPT Class 🚀
 
 ## Overview
 
-A quick, easy integration in vanilla PHP with OpenAI API allowing for both text completions and image generations.
+A quick, easy integration in vanilla PHP with OpenAI API allowing for both text completions and image generations. Zero dependencies. 
 
 ## Installation
 
