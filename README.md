@@ -6,7 +6,7 @@ Vanilla PHP OpenAI ChatGPT Class. 🚀 Zero dependencies.
 
 ## Overview
 
-A quick, easy integration in vanilla PHP with OpenAI API allowing for both text completions and image generations. Zero dependencies. 
+A vanilla PHP integration with OpenAI API allowing for quick and easy implementation of text completions and image generations. Zero dependencies. 
 
 ## Installation
 
