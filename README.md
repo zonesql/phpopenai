@@ -1,12 +1,12 @@
 # phpOpenAI
 
-Vanilla PHP OpenAI ChatGPT Class. 🚀 Zero dependencies. 
+PHP OpenAI ChatGPT Class. 🚀 Native PHP, Zero dependencies. 
 
 [OpenAPI.php](https://github.com/zonesql/phpopenai/blob/main/OpenAI.php)
 
 ## Overview
 
-A vanilla PHP integration with OpenAI API allowing for quick and easy implementation of text completions and image generations. Zero dependencies. 
+A PHP integration with OpenAI API (ChatGPT) allowing text completions and image generations. Easy & quick to implement, Pure PHP, zero dependencies.
 
 ## Installation
 
