@@ -44,8 +44,8 @@ Adam Tandowski
 ## Links
 
 - Tando: https://tando.net
-- GitHub Repo: https://github.com/zonesql
-- GitHub Package: https://github.com/zonesql/phpopenai
+- GitHub User: https://github.com/zonesql
+- GitHub Repo: https://github.com/zonesql/phpopenai
 - OpenAI: https://openai.com
 - OpenAI API Info: https://openai.com/product
 - OpenAI Keys Page: https://platform.openai.com/account/api-keys
